@@ -3,6 +3,10 @@
 This project is a Flask-based web application that converts natural language questions into SQL queries using a **LoRA-fine-tuned TinyLLaMA model**. It utilizes the [Synthetic-Text-To-SQL](https://huggingface.co/datasets/gretelai/synthetic_text_to_sql) dataset for finetuning and is designed to run locally or via a public URL using `ngrok`.
 
 ---
+<p align="center">
+  <img src="demo.gif" alt="Demo" width="600"/>
+</p>
+---
 
 ## Features
 
